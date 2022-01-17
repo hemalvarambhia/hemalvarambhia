@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Smalltalk, Ruby and Ruby on Rails developer who has a strong interest in software design and architecture. I coach on TDD, software design and architecture.
+Reach me on h.n.varambhia@gmail.com
+Pronouns: He/Him/His
