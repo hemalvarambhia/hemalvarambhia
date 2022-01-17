@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Smalltalk, Ruby and Ruby on Rails developer who has a strong interest in software design and architecture. I coach on TDD, software design and architecture.
+I am a Smalltalk, Ruby and Ruby on Rails developer who has a strong interest in software design and architecture. I coach developers on TDD, software design and architecture.
+
+Prior to becoming a software engineer, I was a physicist at UCL. My undergraduate degree is an MSci in Theoretical Physics, and my PhD is in Physics. My area of research was on electron-molecule collisions using the [R-Matrix method, developed by Wigner and Eisenbud in 1949](https://en.wikipedia.org/wiki/R-matrix). You can read the full article from the references therein. It was through my PhD that I became a programmer, beginning with JAVA.
+
+From 2012 I transitioned to Ruby and Ruby on Rails...
+
 Reach me on h.n.varambhia@gmail.com
 Pronouns: He/Him/His
