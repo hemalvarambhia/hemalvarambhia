@@ -19,7 +19,7 @@ I am a Smalltalk, Ruby and Ruby on Rails developer who has a strong interest in 
 
 Prior to becoming a software engineer, I was a physicist at UCL. My undergraduate degree is an MSci in Theoretical Physics, and my PhD is in Physics. My area of research was on electron-molecule collisions using the [R-Matrix method, developed by Wigner and Eisenbud in 1947](https://en.wikipedia.org/wiki/R-matrix). You can read the full article from the references therein. It was through my PhD that I became a programmer, beginning with JAVA.
 
-From 2012 I transitioned to Ruby and Ruby on Rails...
+From 2012 I transitioned to Ruby and Ruby on Rails which is my main language of development. Later, around 2017, I began working with Pharo Smalltalk, contributing to the mathematics library PolyMath, thanks to my former mentor @macta.
 
 Reach me on h.n.varambhia@gmail.com
 
