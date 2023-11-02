@@ -21,6 +21,10 @@ Prior to becoming a software engineer, I was a physicist at UCL. My undergraduat
 
 From 2012 I transitioned to Ruby and Ruby on Rails which is my main language of development. Later, around 2017, I began working with Pharo Smalltalk, contributing to the mathematics library [PolyMath](https://github.com/PolyMathOrg/PolyMath), thanks to my former mentor [Tim Mackinnon](https://github.com/macta).
 
+I am trained facilitator:
+1. in Teaching from the Back of the Room (TBR), a teachnique for designing engaging workshops in which attendees truly learn and understand the topic. I have run TDD workshops using TBR that has been fedback as engaging and inspiring;
+2. Event Storming - a workshopping technique used in domain driven design to discover, amongst other things, bounded context and the domain model within.
+
 Reach me on h.n.varambhia@gmail.com
 
 Pronouns: He/Him/His
